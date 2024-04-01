@@ -5,13 +5,15 @@ This is a small work-in-progress project for electronics hobbyists. If you have 
 It is free-to-use android application allowing you to:
 
 * Create your own storage types: boxes, small boxes, cardboard boxes, books, etc.
-* Specify package if you need to.
-* Add components to those boxes with quantities.
+* Create storages of those types and name them as you want.
+* Add components to those boxes with quantities, specify component package if you want to.
 * Change quantities if you add or spare components.
 * Make a reserve if you are about to build a project.
 
-Additionally, but not neccesary, there is a PHP web application allowing you to:
+Additionally, but not neccesary, there is a PHP web application you can install on your
+Internet/Intranet server allowing you to:
 
-* Work with your components database on a computer.
-* Attach datasheets to components to get to them quickly.
+* Synchronize application database with the server for a backup.
+* Access components database from a computer.
+* Attach datasheets to components to have quick access.
 * Let your co-workers have the same database if you share components.
